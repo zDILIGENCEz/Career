@@ -22,3 +22,21 @@
   </h1>
   
 </div>
+
+<div align="center">
+  
+  <img src="https://media.giphy.com/media/3gdETGbGo0KYYNrN7J/giphy.gif" width="1000" height="50"/>
+  
+</div>
+
+### :man_technologist: About Me :
+
+I am an iOS Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+
+- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building mobile applications.
+
+- :seedling: Exploring new technical features.
+
+- :zap: In my free time, I play professionally volleyball and read books related to Development.
+
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/zDILIGENCEz)

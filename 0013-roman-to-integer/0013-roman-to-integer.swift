@@ -73,3 +73,22 @@ class Solution {
         }
     }
 }
+
+
+//class Solution {
+//    var arr : [Character: Int] = ["I":1,"V":5,"X":10,"L":50,"C":100,"D":500,"M":1000]
+//    func romanToInt(_ s: String) -> Int {
+//        var result  = Int()
+//        var previousValue = 0
+//        for char in s {
+//            if let value  =  arr[char] {
+//                result += value
+//               if value > previousValue {
+//                    result -= 2 * previousValue
+//                }
+//                previousValue = value
+//            }
+//        }
+//        return result
+//    }
+//}

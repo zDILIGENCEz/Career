@@ -1,31 +1,14 @@
 class Solution {
     func lengthOfLongestSubstring(_ s: String) -> Int {
-        var maxCount: Int = 0
-        var uniqueArray = [Character]()
+        var charSet: [Character] = [Character]()
+        var longestLength = 0
         for char in s {
-            var shouldAddElement = true
-            var ununiqueChar: Character = " "
-            uniqueArray.forEach { arrChar in
-                if char == arrChar {
-                    ununiqueChar = char
-                    shouldAddElement = false
-                }
+            if let duplicateStringIdx = charSet.firstIndex(of: char) {
+                charSet.removeSubrange(0...duplicateStringIdx)
             }
-            if shouldAddElement {
-                uniqueArray.append(char)
-                maxCount = uniqueArray.count > maxCount ? uniqueArray.count : maxCount
-            } else {
-                var endFlag = false
-                while !endFlag {
-                    if uniqueArray[0] == ununiqueChar {
-                        endFlag = true
-                        uniqueArray.append(ununiqueChar)
-                    }
-                    uniqueArray.removeFirst()
-                }
-            }
+            charSet.append(char)
+            longestLength = max(longestLength, charSet.count)
         }
-        
-        return maxCount
+        return longestLength
     }
 }

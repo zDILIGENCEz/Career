@@ -19,3 +19,7 @@ In order not to lose my learning progress due to book licences, I will be record
 ### Daily report:
 
 I started with the book [2D Apple Games by tutorials](https://www.kodeco.com/379-2d-apple-games-by-tutorials-updated-for-swift-4-and-ios-11) 1 month ago and stopped on **Chapter 11: Crop, Video, and Shape Nodes**
+
+#### 14 August 2023: 
+End chapter 11, start **Chapter 12: Beginning Tile Maps**. Inspired with starting a new game by this chapter. Previous Cat Nap is really borring in the end. But it provides all important beginning information for start developing.
+Btw, interesting application of translate custom shapes to swift bezier code (https://www.paintcodeapp.com/).

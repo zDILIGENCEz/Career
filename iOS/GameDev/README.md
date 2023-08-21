@@ -23,3 +23,8 @@ I started with the book [2D Apple Games by tutorials](https://www.kodeco.com/379
 #### 14 August 2023: 
 End chapter 11, start **Chapter 12: Beginning Tile Maps**. Inspired with starting a new game by this chapter. Previous Cat Nap is really borring in the end. But it provides all important beginning information for start developing.
 Btw, interesting application of translate custom shapes to swift bezier code (https://www.paintcodeapp.com/).
+
+#### 21 August 2023:
+Find time for update this blog. So far I am steel on chapter 12. I have done some subchapters. For now I am playing with creating characters. 
+
+Interesting free service of pictures set for games https://kenney.nl/assets.

@@ -28,3 +28,6 @@ Btw, interesting application of translate custom shapes to swift bezier code (ht
 Find time for update this blog. So far I am steel on chapter 12. I have done some subchapters. For now I am playing with creating characters. 
 
 Interesting free service of pictures set for games https://kenney.nl/assets.
+
+#### 22 August 2023:
+End chapter 12. This is so interesting when you can understand the parts of game creatinon. From this point I became more realistic about the possibility of achieving my goal.

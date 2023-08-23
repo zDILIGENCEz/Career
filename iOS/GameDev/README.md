@@ -31,3 +31,7 @@ Interesting free service of pictures set for games https://kenney.nl/assets.
 
 #### 22 August 2023:
 End chapter 12. This is so interesting when you can understand the parts of game creatinon. From this point I became more realistic about the possibility of achieving my goal.
+
+#### 23 August 2023:
+Start **Chapter 13: Intermediate Tile Maps**. Just it.
+

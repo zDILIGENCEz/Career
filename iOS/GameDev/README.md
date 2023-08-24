@@ -35,3 +35,6 @@ End chapter 12. This is so interesting when you can understand the parts of game
 #### 23 August 2023:
 Start **Chapter 13: Intermediate Tile Maps**. Just it.
 
+#### 24 August 2023:
+Almost end chapter 13, stopped on chellange.
+

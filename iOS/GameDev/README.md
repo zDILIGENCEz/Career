@@ -38,3 +38,6 @@ Start **Chapter 13: Intermediate Tile Maps**. Just it.
 #### 24 August 2023:
 Almost end chapter 13, stopped on chellange.
 
+#### 25 August 2023:
+I have done chapter 13, and Start **Chapter 14: Saving and Loading Games**. Was so enspired, so that was a speed run. Have to keep that temp.
+

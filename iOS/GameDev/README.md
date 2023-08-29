@@ -41,3 +41,6 @@ Almost end chapter 13, stopped on chellange.
 #### 25 August 2023:
 I have done chapter 13, and Start **Chapter 14: Saving and Loading Games**. Was so enspired, so that was a speed run. Have to keep that temp.
 
+#### 29 August 2023:
+Since 25 of August, I have a time to update this blog. For that time I have done pest controll game and start Drop charge. Stopped somewhere in **Chapter 15: Making Drop Charge**. The most interesting thing for me was load and save states inside the device. The next game after Pest Controll is optional, but I decided to do it, because it improve the visual effects skill. Also who knows, may be I will faced with something interesting during the reading and developing.
+
